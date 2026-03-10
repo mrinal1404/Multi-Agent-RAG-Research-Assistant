@@ -6,17 +6,14 @@ This project leverages a multi-agent LLM pipeline to analyze and query across th
 
 ## 🚀 Demo
 
-> 📹 [Click here to watch the demo](#) *(add your demo link here)*
+> 📹 [Click here to watch the demo](#) (https://drive.google.com/file/d/1aewtYXCiDkR9mcGuVKAMaofZ7bzDhw9V/view?usp=drive_link)
 
 ---
 
 ## 📸 Project Screenshots
 
-> *(Add your screenshots here after running the project)*
-
-| Query Interface | Agent Reasoning Trace | Citations & Confidence |
-|---|---|---|
-| ![s1](#) | ![s2](#) | ![s3](#) |
+> https://drive.google.com/file/d/1iL05Etoyw5u8cjCbQ7tBb47J0acSRLpm/view?usp=drive_link
+|
 
 ---
 
